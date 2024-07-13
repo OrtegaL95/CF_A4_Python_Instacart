@@ -16,18 +16,11 @@ product orders.
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief
 have been fabricated for the purpose of this Achievement.
 - The marketing and sales teams are particularly interested in the different types of
-customers in their system and how their ordering behaviors differ. For example:
--- What’s the distribution among users in regards to their brand loyalty (i.e., how
-often do they return to Instacart)?
--- Are there differences in ordering habits based on a customer’s loyalty status?
--- Are there differences in ordering habits based on a customer’s region?
--- Is there a connection between age and family status in terms of ordering
-habits?
--- What different classifications does the demographic information suggest?
-Age? Income? Certain types of goods? Family status?
--- What differences can you find in ordering habits of different customer
-profiles? Consider the price of orders, the frequency of orders, the products
-customers are ordering, and anything else you can think of.
+customers in their system and how their ordering behaviors differ.
+- For example: What’s the distribution among users in regards to their brand loyalty (i.e., how
+often do they return to Instacart)? Are there differences in ordering habits based on a customer’s loyalty status? Are there differences in ordering habits based on a customer’s region? Is there a connection between age and family status in terms of ordering habits? What different classifications does the demographic information suggest?
+Age? Income? Certain types of goods? Family status? What differences can you find in ordering habits of different customer
+profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Data
 Accessed open-source data sets from Instacart. The customer data set was created and included for the purpose of this project. While each data set contains a different kind of information, they all include some
