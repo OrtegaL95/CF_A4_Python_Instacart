@@ -44,8 +44,7 @@ Python
 Excel
 
 ## Deliverables
-- Summarize analysis findings and describe what connections in the data you’ve found
-- Created a report that describes your analysis methodology, your results, and your
-recommendations for Instacart stakeholders
+- Summarize analysis findings and describe what connections in the data found
+- Created a report that describes the analysis methodology, results, and recommendations for Instacart stakeholders.
 
 
